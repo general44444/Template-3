@@ -1,0 +1,255 @@
+/* navbar */
+.navbarr{
+    position: fixed ;
+    width:100%;
+    z-index: 1;
+ 
+}
+.navbar-brand {
+    margin-left: 10%;
+}
+.icon{
+    margin-left: 59%;
+    width:40%;
+}
+
+.navbar{
+    width: 100%;
+    height: 5%;
+}
+.navbar2{
+    width:100%;
+   height: 3%;
+}
+
+.k ul{
+ padding-left:25%;
+  margin-top:1px;
+  width: 100%;
+}
+.k ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 3%;
+}
+.k ul li a{
+    text-decoration: none;
+    color:#000;
+}
+.k ul li a:hover{
+    color:red;
+}
+.img{
+    background-image: url("00.png");
+    background-size:cover;
+    height: 600px;   
+   
+}
+.welcome{
+    margin-top:22%;
+    margin-left:24%;
+    width:50%;
+   
+}
+.welcome button{
+    padding:10px 50px;
+    color:#fff;
+    border:1px solid #fff;
+}
+.gaming{
+    width:100%;
+    height: 40%;
+    padding-bottom: 5%;
+}
+.gamingg{
+    margin-top:100px;
+    margin-left:20%;
+    width:60%;
+    font-weight: bold;
+    color:black;
+}
+.imgs{
+    width:100%;
+    height: 50%;
+    background:rgb(19, 19, 114);
+}
+.imgss{
+    margin-left:3%;
+    width:100%;
+}
+.imgss img{
+    width:220px;
+    height: 160px;
+    margin-right: 1%;
+    margin-bottom: 3%;
+}
+.imgss h3{
+    margin-top: 5%;
+    margin-bottom: 3%;
+    margin-right: 7%;
+}
+.cards{
+    margin-top: 2% ;
+}
+.card{
+   
+    padding-left: 10px;
+}
+.cards p {
+    font-size:12px;
+    line-height: 1px;
+     opacity: 0.8;
+}
+.cards button{
+    font-weight: 500 !important;
+}
+.cards .buy{
+    color:red;
+    border:1px solid red;
+}
+.cards .add{
+    border:1px solid red;
+}
+.cards h5{
+    line-height: 10px;
+}
+.cards h3{
+    margin:4% auto 2% auto;
+}
+.champion{
+    background:url("20.jpg");
+    background-size:cover;
+}
+.champ{
+    width:100%;
+    height: 50%;
+    padding-bottom: 2%;
+    margin-left: 11%;
+}
+.m_item img{
+    width:200px;
+    height: 180px;
+}
+.m_item{
+    width:200px;
+    height: 20%;
+    display: inline-block;
+    margin-left:1%;
+}
+.champ h3{
+    margin:4% auto 2% -10%;
+}
+.champ .m_item p{
+    text-align: center;
+    color:#fff;
+    margin:4% auto;
+}
+
+.contact{
+    width: 100%;
+    height: 40%;
+}
+.contact .contactt{
+   padding-left: 3%;
+}
+.contact .title{
+    margin:4% auto 2% auto;
+}
+.contactt div{
+    margin-right: 2%;
+}
+.contactt div p{
+      margin-top: 5%;
+      font-size:16px;
+}
+.btn-primary{
+  width:100% !important;
+  background-color: red !important;
+  border-radius: 400px !important;
+
+}
+.contactt div .txt{
+    margin-bottom: 10%;
+}
+.end{
+    background:rgb(19, 19, 114);
+    width:100%;
+    height: 50%;
+
+}
+.zero{
+    margin-top:5%;
+}
+.zero ul li{
+    list-style-type: none;
+    line-height: 30px;
+}
+.zero h5{
+    color:#fff;
+}
+.zero a{
+    text-decoration: none;
+    color:rgba(255, 255, 255, 0.534);
+}
+.divs div{
+    width: 30%;
+    height: 30%;
+}
+.divs div img{
+    width: 150px;
+    height: 100px;
+    margin:auto auto 3% 3%;
+}
+.end_img h4{
+    margin:15% auto 3% auto;
+}
+.icons{
+    margin: 3% auto auto 10%;
+}
+.icons button{
+    border-radius: 5px;
+}
+.icons button:hover{
+    background:red;
+    color:#fff;
+}
+span{
+ color:red;
+}
+.d{
+    width: 50%;
+    background-color: aqua;
+    height: 67px;
+     margin-left: 30% !important;
+     overflow: hidden;
+}
+.dd{
+        width: 100%;
+        position: absolute;
+        margin-top: -40px;
+}
+.em{
+    width:50%;
+    height: 4%;
+    margin-top: 2%;
+}
+.em input{
+    width: 70%;
+    padding: 6px;
+}
+.em button{
+    width: 25%;
+    color: red;
+    padding: 6px;
+}
+.sub{
+    width:50%;
+    height: 4%;
+    color: #fff;
+    padding-left: 2%;
+}
+.sub h5{
+    padding-top: 8%;
+    line-height: 0;
+
+}
